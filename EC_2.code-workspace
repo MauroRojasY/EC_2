@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+maurorojasy-fictional-sniffle-jjwvqqpxw9fv95/workspaces/EC_2"
+		}
+	],
+	"remoteAuthority": "codespaces+maurorojasy-fictional-sniffle-jjwvqqpxw9fv95",
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
